@@ -1,3 +1,4 @@
+#
 QUESTIONS = [
     {
         "question": "Вопрос 1?",

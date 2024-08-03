@@ -1,3 +1,4 @@
+#
 import logging
 
 API_TOKEN = 'API-ключ'
